@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TypeySnakey
+- 👋 Hi, I’m @SpencerUnderwood
 - 👀 I’m interested in learning python and creating an appliocation.
 - 🌱 I’m currently learning, well, python. 
 - 💞️ I’m looking to collaborate on anything because I have no idea what I want to do with python. 
